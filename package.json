@@ -1,8 +1,9 @@
 {
-  "homepage": "http://zwillerzoog.github.io/counter",
+ 
   "name": "raster",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://zwillerzoog.github.io/counter",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
